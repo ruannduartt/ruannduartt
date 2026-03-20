@@ -1,4 +1,4 @@
-## Olá! Eu sou Ruan o Duarte!
+## Olá! Eu sou Ruan Duarte!
 
 * 🚀 - Futuro Desenvolvedor Back-end
 * 👨‍💻 - Estudante de Análise e Desenvolvimento de Sistemas 3/5
