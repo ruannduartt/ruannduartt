@@ -1,22 +1,22 @@
 ## Olá! Eu sou Ruan o Duarte!
 
-* 🚀 - Futuro Desenvolvedor Full stack
-* 👨‍💻 - Estudante de Análise e Desenvolvimento de Sistemas 2/5
+* 🚀 - Futuro Desenvolvedor Back-end
+* 👨‍💻 - Estudante de Análise e Desenvolvimento de Sistemas 3/5
 
 <h2 align="left">Sobre Mim</h2>
 
-Estudante de programação em busca de aprendizado e crescimento na área de Desenvolvimento Web. Atualmente, com HTML, CSS e JavaScript, estou desenvolvendo projetos para aprimorar minhas habilidades no front-end.
+Estudante de programação em busca de aprendizado e crescimento na área de Desenvolvimento Back-end. Atualmente, com Java, estou desenvolvendo projetos para aprimorar minhas habilidades no Back-end.
 
-Também tenho interesse em aprender Python, Node.js e React, pois quero ampliar meus conhecimentos para a futura carreira de desenvolvimento full stack.
+Também tenho interesse em aprender Python, SpringBoot e MySQL, pois quero ampliar meus conhecimentos para a futura carreira de desenvolvimento Back-end.
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" height="30" alt="springboot logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
